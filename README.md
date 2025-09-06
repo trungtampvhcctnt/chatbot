@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="vi">
 <head>
 <meta charset="utf-8" />
@@ -1039,4 +1038,3 @@ function getAppsScriptUrl(){
 </script>
 </body>
 </html>
-# chatbot
